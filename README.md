@@ -1,4 +1,6 @@
 # vstCHOP
+
+[![Join the chat at https://gitter.im/videodromm/vstCHOP](https://badges.gitter.im/videodromm/vstCHOP.svg)](https://gitter.im/videodromm/vstCHOP?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 audio visual VST CHOP for Touch Designer
 
 # setup
