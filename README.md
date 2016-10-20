@@ -10,6 +10,7 @@ I suggest the following workflow:
 - Configure the link to the parent repo: git remote add upstream https://github.com/videodromm/vstCHOP.git
 
 :start
+
 Before coding, get latest modifications from the parent: 
 - git fetch upstream
 - git merge upstream/master master
